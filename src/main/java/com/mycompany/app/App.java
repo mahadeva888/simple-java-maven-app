@@ -3,6 +3,7 @@ package com.mycompany.app;
 /**
  * Hello world!
  */
+// sample commit
 public class App {
 
     private static final String MESSAGE = "Hello World!";
